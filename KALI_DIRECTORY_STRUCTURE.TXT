@@ -1,0 +1,21 @@
+Bin – binary or executable programs (cd & Ls) 
+Dev – This directory contains the device configuration files (like /dev/null) 
+Home – This is the home for kali Linux 
+Lib32 – 
+Libx32 – 
+Media – This directory holds the removable media mounted directories (Like DVD) 
+Opt – This directory is used for add-on software package installation. It is also used when installing software by users (example, hacking tools that you download from Github) 
+Root – Home directory of root user. 
+Sbin – This directory holds system binary files that serve as administrative commands (like fdisk) 
+Sys – This is similar to /dev, which contains configurations about devices and drivers 
+Usr – This directory contains many sub-directories. In fact /usr/share is a folder that we need to memorize because most of the tools that we use in kali linux (like nmap, Metasploit) 
+Boot – This directory contains the Linux bootloader files 
+Etc – system configuration files 
+Lib – This directory holds the shared libraries for the binaries inside /bin and /sbin. 
+Lib64 – 
+Lost+found – As in the name, this directory contains the files that have been recovered.  
+Proc – This directory contains the processes and kernel information files 
+Run – This directory holds runtime 
+Tmp – This is a temporary folder used temporarily, the holdings are wiped after each reboot. The tmp folder is a good place to download our tools for privilege escalation once we got a limited shell. 
+Var – This folder contains variable data for databases, logs, and websites. 
+Mount – This directory contains the mounted directories (like DVD) 
