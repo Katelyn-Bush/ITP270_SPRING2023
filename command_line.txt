@@ -1,0 +1,3 @@
+ls - lists 
+pwd - print working directory
+
